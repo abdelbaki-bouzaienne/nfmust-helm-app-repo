@@ -1,14 +1,14 @@
 apiVersion: v1
 entries:
-mediamtx-human:
-- apiVersion: v2
-appVersion: "1.0"
-created: "2026-04-02T13:17:33.077470532Z"
-description: MediaMTX (RTSP/WebRTC) + Human Detector (YOLOv8) - server-stack.yaml
-digest: 1c64c5db2b0310ec1814d154ddde89e76e6e45f1d97e52ab011be62ba095ab32
-name: mediamtx-human
-type: application
-urls:
-- mediamtx-human-0.1.0.tgz
-version: 0.1.0
+  mediamtx-human:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2026-04-02T13:17:33.077470532Z"
+    description: MediaMTX (RTSP/WebRTC) + Human Detector (YOLOv8) - server-stack.yaml
+    digest: 1c64c5db2b0310ec1814d154ddde89e76e6e45f1d97e52ab011be62ba095ab32
+    name: mediamtx-human
+    type: application
+    urls:
+    - mediamtx-human-0.1.0.tgz
+    version: 0.1.0
 generated: "2026-04-02T13:17:33.07249029Z"
